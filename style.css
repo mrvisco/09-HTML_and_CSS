@@ -80,7 +80,7 @@ p{
     font-size: 15px; 
     border-top-color: white !important; 
 }
-/* Footer 
+/* Footer */
 footer{
 background-color: #666666; 
 border-top-style: solid; 
@@ -122,5 +122,5 @@ button:focus {
     outline: 1px dotted;
     outline: 5px auto -webkit-focusring-color;
     
-    }*/
+    }
 }
