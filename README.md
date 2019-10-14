@@ -1,13 +1,9 @@
-Mark Visco Homework assignment
-
-HTML and CSS
+# Assignment - Web Visualization Dashboard (Latitude)
 
 Please click on the following link and you will be brought to the homework web page.  You can also access this webpage from other devices.
 
  https://mrvisco.github.io/htmlcss/
  
-Assignment - Web Visualization Dashboard (Latitude)
-
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
