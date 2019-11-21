@@ -2,7 +2,7 @@
 
 Please click on the following link and you will be brought to the homework web page.  You can also access this webpage from other devices.
 
- https://mrvisco.github.io/htmlcss/
+https://mrvisco.github.io/09-HTML_and_CSS---Web-Visualization-Dashboard-Latitude-/
  
 ## Background
 
